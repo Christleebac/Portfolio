@@ -1,0 +1,108 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    background-color: #51BAD0;
+}
+
+.header {
+    display: inline-block;
+    width: 100%;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 150px;
+    margin-right: 700px;
+   
+
+}
+
+
+.nav-positioning {
+    display: inline-block;
+}
+
+.tags {
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 105px;
+    color: white;
+} 
+
+.tags:hover {
+    color: black;
+}
+
+.horizontal-line {
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+    width: 90%;
+    height: 10px;
+    margin-top: 30px;
+}
+
+.horizontal-positioning {
+    margin-left: 20px;
+    display: block;
+}
+
+.intro-positioning{
+    margin-left: 220px;
+    margin-top: 150px;
+
+}
+
+.greetings {
+    font-size: 80px;
+}
+
+.myname {
+    font-size: 35px;
+    margin-bottom: 8px;    
+}
+
+.name {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.title {
+    font-size: 35px;
+}
+
+.quotes-positioning {
+    margin-left: 220px;
+}
+
+.quotes {
+    font-size: 40px;
+    margin-top: 150px;
+    width: 650px;
+}
+
+.author {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 425px;
+}
+
+.content {
+    display: inline-block;
+}
+
+.profile-positioning {
+    display: inline-block;
+}
+
+.profile {
+    width: 500px;
+    margin-left: 300px;
+    border-radius: 50%;
+}
